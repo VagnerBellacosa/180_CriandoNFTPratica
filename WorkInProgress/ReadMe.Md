@@ -29,7 +29,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criando um NFT na Prática](https://web.dio.me/lab/criando-um-nft-na-pratica/learning/3e283e21-069e-43e7-8c4e-e87ff899efbd)[Entendendo o Desafio](https://web.dio.me/lab/criando-um-nft-na-pratica/learning/20b991d9-946a-43d6-8214-86f9c76bcdea)
+- [Criando um NFT na Prática](https://web.dio.me/lab/criando-um-nft-na-pratica/learning/3e283e21-069e-43e7-8c4e-e87ff899efbd)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-um-nft-na-pratica/learning/20b991d9-946a-43d6-8214-86f9c76bcdea)
 
 
 
